@@ -1,0 +1,21 @@
+0. extra death cause night
+1. extra death prevention night
+2. extra death cause day
+3. day protection
+4. madness
+5. Vote count manipulation
+6. changing aligment
+7. execution trigger
+8. trigger on death
+9. mis registering
+10. not knowing role
+11. revival
+12. alternative win condition
+13. causing droison
+14. preventing droison
+15. preventing alternative win condition
+16. info on type
+17. info on aligment
+18. info on player
+19. set up modification
+20. public claim
